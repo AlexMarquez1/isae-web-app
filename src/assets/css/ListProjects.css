@@ -1,0 +1,119 @@
+#listproyect .main-container .container .container-dashboard{
+    max-height: 550px;
+}
+
+#listproyect .main-container .container .container-dashboard .excel-download {
+    width: 35px;
+    height: auto;
+    position: absolute;
+    right: 15px;
+    top: 30px;
+}
+  
+#listproyect .main-container .container .container-dashboard .excel-download a{
+    text-decoration: none;
+    cursor: pointer;
+    width: inherit;
+    display: block;
+    height: inherit;
+}
+  
+  #listproyect .main-container .container .container-dashboard .excel-download a svg {
+    height: inherit;
+    width: inherit;
+    margin: 0 auto;
+    display: block;
+}
+
+
+/*Modal - Files*/
+#filesModal.modal-dialog .modal-body,
+.modal-dialog .modal-body .content-form-groups{
+    height: 500px;
+    overflow: auto;
+}
+
+.modal-dialog  button{
+    float: right;
+    margin-bottom: 16px;
+}
+
+.modal-dialog  #contenedor-table{
+    width: 100%;    
+}
+
+.modal-dialog  #contenedor-table tr td:nth-child(2),
+.modal-dialog  #contenedor-table tr th:nth-child(2) {
+    text-align: center;
+}
+
+/*Modal Edit*/
+#editModal.modal-dialog .form-row .accordion {
+    width: 100%;
+}
+
+#editModal.modal-dialog .modal-content .modal-body .form-row.content-control-groups {
+    height: 400px;
+    overflow: auto;
+}
+
+/*Modal Signature Format File*/
+#signaturemodalRef.modal-dialog canvas{
+    width: 100%;
+    display: block;
+    margin: 5px auto;
+    max-width: 500px;
+    height: 200px;
+    border: 1px solid #000000;
+}
+
+#signaturemodalRef.modal-dialog button{
+    float: none;
+    margin-right: 15px;
+}
+
+.modal-files .content-table{
+    max-height: 500px;
+    overflow: auto;
+}
+
+.pagination{
+    margin-bottom: 0;
+}
+
+.dropdown.react-bs-table-sizePerPage-dropdown{
+    margin-bottom: 15px;
+    display: block;
+}
+
+#listproyect .table .active-column-header,
+#listproyect .table .active-column-data{
+    width: 12.142%;
+}
+
+#listproyect .table thead tr th:nth-last-child(){
+    width: 5%;
+}
+
+@media (max-width: 1199px){
+    #listproyect .main-container .container .container-dashboard{
+        max-width: 95%;
+    }
+}
+
+@media (max-width: 767.98px){
+    #listproyect .main-container .container .container-dashboard{
+        max-width: 100%;
+    }
+
+    #listproyect .content-table .react-bs-table.react-bs-table-bordered{
+        overflow: auto;        
+    }
+}
+
+@media (max-width: 575.98px){
+    .modal-dialog canvas{
+        height: 150px;
+    }
+}
+

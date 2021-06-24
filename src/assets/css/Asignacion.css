@@ -1,0 +1,66 @@
+#asign-projects .table .active-column-header,
+#asign-projects .table .active-column-data{
+    width: 25%;
+}
+
+#asign-projects .container .container-dashboard .btn-action{
+    margin-left: 20px;
+}
+
+#asign-projects .container .container-dashboard .row{
+    margin-top: 15px;;
+}
+
+#asign-projects .container .container-dashboard .content-table.mode-search input.filter.text-filter.form-control{
+    display: none!important;
+}
+
+
+
+/*Modal*/
+
+.modal-dialog .asing-options-contect .asign-options div {
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid lightgrey;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.modal-dialog .asing-options-contect .asign-options div:hover{
+    border: 1px solid #007bff80;
+}
+
+.modal-dialog .asing-options-contect .asign-options{
+    max-height: 200px;
+    overflow: auto;
+}
+
+.modal-dialog .asing-options-contect .asign-options div.active{
+    background: #007bff80;
+    border: 1px solid #007bff80;
+}
+
+.modal-dialog .asing-options-contect .asign-options button{
+    padding: 0;
+    min-width: 35px;
+    margin: 5px auto;
+}
+
+@media (max-width: 767.98px){
+    #asign-projects .content-table .react-bs-table.react-bs-table-bordered{
+        overflow: auto;        
+    }
+
+}
+
+@media (max-width: 575.98px){
+    #asign-projects .container .container-dashboard .content-btn-modal{
+        position: relative;
+        float: right;
+        top: 38px;
+        right: 0;
+    }
+}

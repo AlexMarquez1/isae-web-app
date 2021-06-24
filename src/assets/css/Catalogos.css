@@ -1,0 +1,27 @@
+#catalogs .table .active-column-header,
+#catalogs .table .active-column-data {
+  width: 50%;
+}
+
+#catalogs .tablecatalogs .table .active-column-header,
+#catalogs .tablecatalogs .table .active-column-data {
+  width: 31%;
+}
+
+@media (min-width: 992px) {
+  #catalogs .table .filter.text-filter.form-control {
+    max-width: 60%;
+    margin: 0 auto;
+  }
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}

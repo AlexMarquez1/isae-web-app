@@ -1,0 +1,133 @@
+.login-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+.login-container .header{
+    font-size: 24px;
+    margin-bottom: 25px;
+}
+
+.login-container .content{
+    display: flex;
+    flex-direction: column;
+}
+
+.login-container .content .App-logo {
+    /*height: 40vmin;*/
+    width: 8em;
+    margin: 0 auto;
+    pointer-events: none;
+  }
+  
+@media (prefers-reduced-motion: no-preference) {
+    .login-container .content .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+  
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+}
+
+.login-container .content .App-logo img{
+    width: 100%;
+    height: 100%;
+}
+
+.login-container .content .form{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login-container .content .form .form-group{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: fit-content;
+}
+
+.login-container .form label{
+    font-size: 18px;
+}
+
+.login-container .form input{
+    margin-top: 6px;
+    min-width: 18em;
+    height: 37px;
+    padding: 0px 10px;
+    font-size: 16px;    
+    font-family: "Open Sans", sans-serif;
+    background-color: #f3f3f3;
+    border: 0;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    transition: all 250ms ease-in-out;
+}
+
+.login-container .form .forgot-password {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+.login-container .form .forgot-password a{
+    cursor: pointer;    
+}
+
+.login-container .form .forgot-password a:hover{
+    color: #007bff
+}
+
+/**/
+@media (max-width: 767.98px){
+  
+    .login-container{
+      font-size: 14px;
+      height: auto;
+    }
+  
+    .login-container .header{
+      font-size: 18px;
+    }
+
+    .login-container .form label,
+    .login-container .form input,
+    .right-side{
+        font-size: 12px;
+    }
+  
+    .App .login {
+      width: auto;
+      height: auto;
+    }
+
+    .right-side{
+        height: auto;
+        top: 0;
+        right: 0;
+    }
+
+    .right-side.left,
+    .right-side.right{
+        top: 0;
+        height: auto;
+    }
+
+    .login-container .form input{
+        margin: 0 auto;
+        padding: 0 8px;
+    }
+
+}

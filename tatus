@@ -1,0 +1,354 @@
+[33mcommit d50f25896447ea729c013e69b8bc691323860992[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Luis Enrique <luis.hen14@gmail.com>
+Date:   Tue Jul 28 04:15:54 2020 -0500
+
+    lista y carga de archivos
+
+[33mcommit 473965a9346d64a8e0e1ce5cff4bf29de8ac98c5[m
+Author: Luis Enrique <luis.hen14@gmail.com>
+Date:   Sun Jul 26 19:52:56 2020 -0500
+
+    Implementación nuevas definiciones firma digital - pendiente cambiar
+    conexion a nuevo bucket en el listado de archivos
+
+[33mcommit 426d14f444db56debb3d32704b91f797ff99085b[m
+Author: Luis Henry <luis.hen14@gmail.com>
+Date:   Thu Jul 23 03:55:16 2020 -0500
+
+    Lay out final : carga proyectos e inventario
+
+[33mcommit 0f6826730f7e79c04a765b85c03c7f2a91ef2fa9[m
+Author: Luis Enrique <luis.hen14@gmail.com>
+Date:   Mon Jul 20 21:16:33 2020 -0500
+
+    Fixed WIDTH OF canvas
+
+[33mcommit 24c905a14c5a9f7209e26099116ce691d2c35f51[m
+Author: Luis Enrique <luis.hen14@gmail.com>
+Date:   Mon Jul 20 09:49:20 2020 -0500
+
+    Implementación firma digital
+
+[33mcommit a737f423de2192d12791f5d3acf4d44188926c65[m
+Author: Luis Enrique <luis.hen14@gmail.com>
+Date:   Sat Jul 18 10:56:28 2020 -0500
+
+    Download format files
+
+[33mcommit 26770fa156b64b5c466c3f7cb7d634377a874037[m
+Author: Luis Enrique <luis.hen14@gmail.com>
+Date:   Thu Jul 16 08:09:39 2020 -0500
+
+     edit inventario : build modal
+
+[33mcommit f315e673bbdb91e3d02e27414a0c19782a7c7c4a[m
+Author: Luis Enrique <luis.hen14@gmail.com>
+Date:   Wed Jul 15 15:07:49 2020 -0500
+
+    new database....
+
+[33mcommit 70c2b5fda4db50249f0c7326a98b5b01f2fa36de[m
+Author: Luis Enrique <luis.hen14@gmail.com>
+Date:   Wed Jul 15 11:12:07 2020 -0500
+
+    Ini Migration to BootstrapTable 2
+
+[33mcommit 0f2e6b45b180d7bf089d9fc7b7a4202f69955ea7[m
+Author: Luis Enrique <luis.hen14@gmail.com>
+Date:   Mon Jul 13 14:29:36 2020 -0500
+
+    Consulta - ModificaciÃn Proyectos : Form Validation individual
+
+[33mcommit 07ade8e1527fe9dc5336472b5ba1ae6c2c113149[m
+Author: Luis Enrique <luis.hen14@gmail.com>
+Date:   Fri Jul 10 07:19:18 2020 -0500
+
+    Carga de archivos evidencia - po invientario
+
+[33mcommit 4b60fada6d457c3f804e42d983db4d423972cb5e[m
+Author: Luis Henry <luis.hen14@gmail.com>
+Date:   Wed Jul 8 21:48:26 2020 -0500
+
+    Set pattern in form for validate with REGEXP
+
+[33mcommit aa48a9ccc6d69617a5ba05a1b00eb66a6354e758[m
+Author: Luis Enrique <luis.hen14@gmail.com>
+Date:   Wed Jul 8 12:59:29 2020 -0500
+
+    Fix Carga Excel, Modulo Asignación New Definicion
+
+[33mcommit 590660d1513453e9d4628db9ed06e604085444eb[m
+Author: Luis Enrique <luis.hen14@gmail.com>
+Date:   Mon Jul 6 05:58:57 2020 -0500
+
+    Se mejora la carga con excel y descarga de errores
+
+[33mcommit 9d3a0df0486ba4428ff9b08a072d045c3681f4fb[m
+Author: Luis Enrique <luis.hen14@gmail.com>
+Date:   Thu Jul 2 11:59:25 2020 -0500
+
+    Validacion formato de carga inventario
+
+[33mcommit 5aaffa43ca1f44b51550516e1257ec3591d045f3[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Wed Jul 1 08:51:44 2020 -0500
+
+    Fix - Form construction - combos estado, localidades, colonia
+
+[33mcommit 85b6688f100becc8bdc1dfaefd3b828a06940be6[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Tue Jun 30 04:44:03 2020 -0500
+
+    Formulario modificacion campos ubicacion
+
+[33mcommit ddc7c69a8185a4e32ac0404dd5617539ac44a4fc[m
+Author: Luis Henry <luis.hen14@gmail.com>
+Date:   Fri Jun 26 18:18:51 2020 -0500
+
+    Fix estilos and new rest services path
+
+[33mcommit 7d89585d00daf6adee0442bcbaae163418aa8e1f[m
+Author: Luis Henry <luis.hen14@gmail.com>
+Date:   Wed Jun 24 16:45:37 2020 -0500
+
+    Modificación de Estilos
+
+[33mcommit 79b192d9d28b957dcd692d2a9f49391dc0dd01c7[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Wed Jun 24 06:07:55 2020 -0500
+
+    Se agrega funcionalidad - Catalogos Ubicación
+
+[33mcommit fe5430ac6fce6dfeb334416358363c4f703769d8[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Wed Jun 24 01:53:59 2020 -0500
+
+    Se finaliza filtro de campos requeridos
+
+[33mcommit 19f65463060497a1d08ec2b3bcb823cc25d97707[m
+Author: Luis Henry <luis.hen14@gmail.com>
+Date:   Tue Jun 23 20:11:13 2020 -0500
+
+    Se agrega el filtro por la tabla de proyectos
+
+[33mcommit d89a6e847f8d7b2de83fd60d7e8117b734037f36[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Mon Jun 22 23:20:53 2020 -0500
+
+    Segundo Select - implementado
+
+[33mcommit 4982fabc9d7ea3072341a9292e63cf650e98835a[m
+Author: Luis Henry <luis.hen14@gmail.com>
+Date:   Fri Jun 19 16:57:34 2020 -0500
+
+    Include build folder for test with netlify
+
+[33mcommit 47663b34b149e4f04f99b51e97f2a5ee265d2591[m
+Author: Luis Henry <luis.hen14@gmail.com>
+Date:   Thu Jun 18 15:49:33 2020 -0500
+
+    Se comienz Mejora en Estylos - Login
+
+[33mcommit 6d33d709bd15d13cb5c8cd2083bd8e8f5b7fbfe6[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Thu Jun 18 06:41:50 2020 -0500
+
+    Alta inventario con Formulario
+
+[33mcommit 85c69cc1d899dd55f95957c6f7ff906a661a014b[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Wed Jun 17 08:39:35 2020 -0500
+
+    Include databases on repository
+
+[33mcommit 878759318207896f8f3318312bcf26a54669dad0[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Mon Jun 15 12:27:46 2020 -0500
+
+    nav - fixed
+
+[33mcommit 89b9876c2e7ae9d466e72483ec00fb3cbe10af0d[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Mon Jun 15 01:34:33 2020 -0500
+
+    Login Implemented with root user
+
+[33mcommit b9d15b4fb526153a5cd96c58ef0f9b3f0dfc6511[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Thu Jun 11 08:50:13 2020 -0500
+
+    Asignación - A nivel Tecnicos
+
+[33mcommit e34d6bc492f045610c5a63ffabf84be31c10bd07[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Mon Jun 8 08:50:35 2020 -0500
+
+    Inicio Modulo Asignación
+
+[33mcommit 75874d969d8dec669d27371a0980ab119f5eb0bf[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Sun Jun 7 21:41:05 2020 -0500
+
+    fix boton actualizar -guardar
+
+[33mcommit 987a91a55d576f8c191a686c87ecc5b06785af69[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Sun Jun 7 21:17:29 2020 -0500
+
+    Add - Update Users
+
+[33mcommit 4e0e2fcefa61c45158bfb87cb44537eac2f85b92[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Sun Jun 7 15:16:00 2020 -0500
+
+    Alta Usuarios, falta busqueda
+
+[33mcommit d04a7f2db9850859dfbd7a1217203bc7438755b8[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Sat Jun 6 10:33:28 2020 -0500
+
+    Maquetado Alta-Usuarios
+
+[33mcommit dc30740125aa88af725713c8e3dbde303bae8505[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Thu Jun 4 20:03:36 2020 -0500
+
+    Cambio en opciones principales
+
+[33mcommit 9ca15a28a7b65ff4da02d4fe8a812143ac14c452[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Wed Jun 3 04:57:38 2020 -0500
+
+    Paginacion, 2 tipos de filtrado, descarga archivo
+
+[33mcommit 25a303d17d40731c60d69fbd304054f339f594b1[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Tue Jun 2 22:22:43 2020 -0500
+
+    Filtrado inventario definido
+
+[33mcommit 2e42710886fa1115900cdc33122c80a8112579b8[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Tue Jun 2 18:31:00 2020 -0500
+
+    Implementación de filtrado de Inventario
+
+[33mcommit ba9184808fa7c21269a28dcdf4057e4bb3869c90[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Wed May 27 22:08:36 2020 -0500
+
+    Mejoras en descarga inventario, mejoras en estilos
+
+[33mcommit 3fbd9a8b4bd8b29209c3587302cba78c3e025c25[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Wed May 27 20:53:02 2020 -0500
+
+    Se termina funcionalidad, pendiente mejoras
+
+[33mcommit 255b41cd45be615c89d5af033146f893e26bf817[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Mon May 25 23:41:25 2020 -0500
+
+    Implementación descarga de archivo con el API
+
+[33mcommit d20b3e9f1899b552f912bc40d7a15e1880d8c060[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Sat May 23 10:31:16 2020 -0500
+
+    Se consume los servicios, solo por http
+
+[33mcommit 949b2616c967c2dabad0d456d8dc0586dcc1ba5d[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Fri May 22 05:39:13 2020 -0500
+
+    Se consume el servicio get, en produccion falta configuracion https
+
+[33mcommit d023263fff53ca5413290caf3c8638618461a249[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Fri May 22 00:29:42 2020 -0500
+
+    Se actualiza archivo para obtener los datos para la BD
+
+[33mcommit 62d1cd732ea2d93616229a7e1b662ba82835bee9[m
+Author: Luis Henry <luis.hen14@gmail.com>
+Date:   Fri May 15 11:36:12 2020 -0500
+
+    fix a error when a new project is created
+
+[33mcommit 1c5013924e33738e6c93e9c011a406ca67712459[m
+Author: Luis Henry <luis.hen14@gmail.com>
+Date:   Fri May 15 10:18:32 2020 -0500
+
+    e omite el modulo de busqueda
+
+[33mcommit 0864feab6ba1981131c9f04d523c244ef93e08d9[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Fri May 15 10:14:27 2020 -0500
+
+    Se omite el pagenotfound
+
+[33mcommit 77fc202131d4e48e6970d013de6abb963acd73a8[m
+Author: Luis Henry <luis.hen14@gmail.com>
+Date:   Fri May 15 09:12:16 2020 -0500
+
+     muestra 20200515
+
+[33mcommit 229be8ea11524ade299e9bdbca5419c3143cddce[m
+Author: Luis Henry <luis.hen14@gmail.com>
+Date:   Fri May 15 07:23:50 2020 -0500
+
+     validando
+
+[33mcommit 4664326b98a1c6b1c6be8d5985c1550b95e1d43a[m
+Author: Luis Henry <luis.hen14@gmail.com>
+Date:   Fri May 15 01:46:08 2020 -0500
+
+     test insert firebase
+
+[33mcommit 6cf21858021e0ecb05e6afc1ffb6b2744eaf88ab[m
+Author: Luis Henry <luis.hen14@gmail.com>
+Date:   Fri May 15 00:51:14 2020 -0500
+
+     avance----
+
+[33mcommit 2da0b36e90d16f3fddc5f597bad467a05c131b11[m
+Author: Luis Henry <luis.hen14@gmail.com>
+Date:   Thu May 14 23:13:43 2020 -0500
+
+    Con ejemplo de creación de archivos, no funciona
+
+[33mcommit ef434f05fa0b57f283b999753c548086d0fb542a[m
+Author: Luis Henry <luis.hen14@gmail.com>
+Date:   Wed May 13 21:19:49 2020 -0500
+
+    Nueva definicion con navegacion de paginas simulada
+
+[33mcommit 704c0858142a748fe48aa7cec25d33789dc0d199[m
+Author: Luis Henry <luis.hen14@gmail.com>
+Date:   Tue May 12 11:17:57 2020 -0500
+
+    Modificaciones,funcionalidad crear nuevo proyecto
+
+[33mcommit b3e1a9d871347bfe3caba73cfb5abb61462dccb6[m
+Author: Henry1417 <luis.hen14@gmail.com>
+Date:   Tue May 12 08:51:29 2020 -0500
+
+    Entregrable con estilos
+
+[33mcommit b152adb8cab6fd27a407b037930ac0f3c475f896[m
+Author: Luis Henry <luis.hen14@gmail.com>
+Date:   Tue May 12 06:50:55 2020 -0500
+
+    last version with out styles
+
+[33mcommit 2e35d5a68f3d00ef54a5d386f62c16374503030c[m
+Author: Luis Henry <luis.hen14@gmail.com>
+Date:   Mon May 11 20:46:11 2020 -0500
+
+    first commit with first examples
+
+[33mcommit c53f0a325a3339810389ae778e9a98baf98d2c1e[m
+Author: Luis Henry <luis.hen14@gmail.com>
+Date:   Sun May 10 22:46:23 2020 -0500
+
+    Init project

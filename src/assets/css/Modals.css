@@ -1,0 +1,12 @@
+
+/*Modal*/
+.modal{
+  position: absolute !important;
+  width: 80%;
+  height: 60%;
+  background: gray;
+  /* display: none; */
+  top: 20%;
+  left: 10%;
+}
+
